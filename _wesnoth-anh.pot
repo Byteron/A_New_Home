@@ -1,0 +1,2802 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: %F %R%z\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [about]
+#: _main.cfg:10
+msgid "Autors of this Campaign:"
+msgstr ""
+
+#. [about]
+#: _main.cfg:19
+msgid "Programming:"
+msgstr ""
+
+#. [about]
+#: _main.cfg:25
+msgid "Story:"
+msgstr ""
+
+#. [about]
+#: _main.cfg:34
+msgid "Dialoques:"
+msgstr ""
+
+#. [about]
+#: _main.cfg:40
+msgid "Portraits & Sprites:"
+msgstr ""
+
+#. [about]
+#: _main.cfg:46
+msgid "Text revisions"
+msgstr ""
+
+#. [about]
+#: _main.cfg:52
+msgid "Beta - Testing:"
+msgstr ""
+
+#. [campaign]: id=A_New_Home
+#: _main.cfg:69
+msgid "A new Home"
+msgstr ""
+
+#. [campaign]: id=A_New_Home
+#: _main.cfg:70
+msgid "AnH"
+msgstr ""
+
+#. [campaign]: id=A_New_Home
+#: _main.cfg:76
+msgid ""
+"Accompany Denvan and the inhabitants of his village into the north and discover a new home for him and his fellowship.\n"
+"\n"
+"(Novice level, 8 scenarios.)"
+msgstr ""
+
+#. [campaign]: id=A_New_Home
+#: _main.cfg:81
+msgid "Sergeant"
+msgstr ""
+
+#. [campaign]: id=A_New_Home
+#: _main.cfg:81
+msgid "(easy)"
+msgstr ""
+
+#. [campaign]: id=A_New_Home
+#: _main.cfg:82
+msgid "Lieutenant"
+msgstr ""
+
+#. [campaign]: id=A_New_Home
+#: _main.cfg:82
+msgid "(normal)"
+msgstr ""
+
+#. [campaign]: id=A_New_Home
+#: _main.cfg:83
+msgid "(hard)"
+msgstr ""
+
+#. [campaign]: id=A_New_Home
+#: _main.cfg:83
+msgid "General"
+msgstr ""
+
+#: macros/characters.cfg:9
+msgid "Denvan"
+msgstr ""
+
+#: macros/characters.cfg:22
+msgid "Ysedda"
+msgstr ""
+
+#. [label]
+#. [message]: speaker=narrator
+#: macros/characters.cfg:38 scenarios/02_the_fall.cfg:650 scenarios/02_the_fall.cfg:1569 scenarios/02_the_fall.cfg:1579 scenarios/02_the_fall.cfg:1589 scenarios/02_the_fall.cfg:1607 scenarios/02_the_fall.cfg:1617 scenarios/02_the_fall.cfg:1639 scenarios/02_the_fall.cfg:1661 scenarios/02_the_fall.cfg:1683 scenarios/02_the_fall.cfg:1693 scenarios/02_the_fall.cfg:1711 scenarios/02_the_fall.cfg:1721 scenarios/02_the_fall.cfg:1731 scenarios/02_the_fall.cfg:1757 scenarios/02_the_fall.cfg:1780 scenarios/02_the_fall.cfg:1806 scenarios/02_the_fall.cfg:1832 scenarios/02_the_fall.cfg:1842 scenarios/02_the_fall.cfg:1864 scenarios/02_the_fall.cfg:1874
+msgid "Lenvan"
+msgstr ""
+
+#. [label]
+#. [message]: speaker=narrator
+#: macros/characters.cfg:55 scenarios/02_the_fall.cfg:712 scenarios/02_the_fall.cfg:746 scenarios/02_the_fall.cfg:758 scenarios/02_the_fall.cfg:770 scenarios/02_the_fall.cfg:782 scenarios/02_the_fall.cfg:794 scenarios/02_the_fall.cfg:1145 scenarios/02_the_fall.cfg:1155 scenarios/02_the_fall.cfg:1165
+msgid "Ven"
+msgstr ""
+
+#: macros/characters.cfg:70
+msgid "Glenry"
+msgstr ""
+
+#. [label]
+#. [message]: speaker=narrator
+#: macros/characters.cfg:85 scenarios/02_the_fall.cfg:642 scenarios/02_the_fall.cfg:1216 scenarios/02_the_fall.cfg:1226 scenarios/02_the_fall.cfg:1244 scenarios/02_the_fall.cfg:1254 scenarios/02_the_fall.cfg:1264 scenarios/02_the_fall.cfg:1286 scenarios/02_the_fall.cfg:1296 scenarios/02_the_fall.cfg:1318 scenarios/02_the_fall.cfg:1328 scenarios/02_the_fall.cfg:1350 scenarios/02_the_fall.cfg:1360 scenarios/02_the_fall.cfg:1382 scenarios/02_the_fall.cfg:1400 scenarios/02_the_fall.cfg:1410 scenarios/02_the_fall.cfg:1420 scenarios/02_the_fall.cfg:1430 scenarios/02_the_fall.cfg:1452 scenarios/02_the_fall.cfg:1462 scenarios/02_the_fall.cfg:1484 scenarios/02_the_fall.cfg:1494 scenarios/02_the_fall.cfg:1519 scenarios/02_the_fall.cfg:1529
+msgid "Brealla"
+msgstr ""
+
+#: macros/characters.cfg:100
+msgid "Clewin"
+msgstr ""
+
+#: macros/characters.cfg:115
+msgid "Adhor"
+msgstr ""
+
+#: macros/characters.cfg:130
+msgid "Bisam"
+msgstr ""
+
+#: macros/characters.cfg:145
+msgid "Dehal"
+msgstr ""
+
+#. [label]
+#. [message]: speaker=narrator
+#: macros/characters.cfg:160 scenarios/02_the_fall.cfg:646 scenarios/02_the_fall.cfg:1916 scenarios/02_the_fall.cfg:1942 scenarios/02_the_fall.cfg:1948 scenarios/02_the_fall.cfg:1974 scenarios/02_the_fall.cfg:1996 scenarios/02_the_fall.cfg:2018 scenarios/02_the_fall.cfg:2028 scenarios/02_the_fall.cfg:2034 scenarios/02_the_fall.cfg:2044 scenarios/02_the_fall.cfg:2070 scenarios/02_the_fall.cfg:2076 scenarios/02_the_fall.cfg:2082 scenarios/02_the_fall.cfg:2108 scenarios/02_the_fall.cfg:2114 scenarios/02_the_fall.cfg:2120 scenarios/02_the_fall.cfg:2126 scenarios/02_the_fall.cfg:2152 scenarios/02_the_fall.cfg:2158 scenarios/02_the_fall.cfg:2164 scenarios/02_the_fall.cfg:2190 scenarios/02_the_fall.cfg:2196 scenarios/02_the_fall.cfg:2202 scenarios/02_the_fall.cfg:2208 scenarios/02_the_fall.cfg:2218 scenarios/02_the_fall.cfg:2224 scenarios/02_the_fall.cfg:2234 scenarios/02_the_fall.cfg:2263
+msgid "Petar"
+msgstr ""
+
+#. [label]
+#. [message]: speaker=narrator
+#: macros/characters.cfg:175 scenarios/02_the_fall.cfg:658 scenarios/02_the_fall.cfg:2313 scenarios/02_the_fall.cfg:2323 scenarios/02_the_fall.cfg:2333 scenarios/02_the_fall.cfg:2351 scenarios/02_the_fall.cfg:2361 scenarios/02_the_fall.cfg:2371 scenarios/02_the_fall.cfg:2393 scenarios/02_the_fall.cfg:2403 scenarios/02_the_fall.cfg:2425 scenarios/02_the_fall.cfg:2435 scenarios/02_the_fall.cfg:2457 scenarios/02_the_fall.cfg:2471 scenarios/02_the_fall.cfg:2496 scenarios/02_the_fall.cfg:2518 scenarios/02_the_fall.cfg:2528 scenarios/02_the_fall.cfg:2538 scenarios/02_the_fall.cfg:2564 scenarios/02_the_fall.cfg:2582 scenarios/02_the_fall.cfg:2592 scenarios/02_the_fall.cfg:2614 scenarios/02_the_fall.cfg:2636 scenarios/02_the_fall.cfg:2646 scenarios/02_the_fall.cfg:2675
+msgid "Johan"
+msgstr ""
+
+#. [event]: id=Haldar 15 12}, id=Ysedda 15 11}, id=Karga 5 2}, id=Ysedda 20 15}, id=Haldar 19 15}, id=Bledoc facing w}, id=Lin facing w}, id=Moran facing n}, id=Phil facing n}, id=Haldar 17 13}, id=Baldur 15 15}, id=Wemir 16 17}, id=Bledoc facing nw}, id=Lin facing nw}, id=Moran facing nw}, id=Phil facing nw}
+#. [label]
+#. [message]: speaker=narrator
+#: macros/characters.cfg:189 scenarios/01_attack_of_the_orcs.cfg:318 scenarios/02_the_fall.cfg:654 scenarios/02_the_fall.cfg:2727
+msgid "Gweod"
+msgstr ""
+
+#. [side]
+#: macros/characters.cfg:202 macros/characters.cfg:211 scenarios/02_the_fall.cfg:72
+msgid "Karga"
+msgstr ""
+
+#: macros/characters.cfg:220
+msgid "Grogul"
+msgstr ""
+
+#. [side]
+#: macros/characters.cfg:229 scenarios/02_the_fall.cfg:91
+msgid "Gaol"
+msgstr ""
+
+#. [side]
+#: macros/characters.cfg:238 scenarios/02_the_fall.cfg:53
+msgid "Varag"
+msgstr ""
+
+#. [scenario]: id=08_morgal
+#: macros/characters.cfg:247 scenarios/08_morgal.cfg:5
+msgid "Morgal"
+msgstr ""
+
+#: macros/characters.cfg:256
+msgid "Gruk"
+msgstr ""
+
+#: macros/characters.cfg:265
+msgid "Rokk"
+msgstr ""
+
+#: macros/characters.cfg:274
+msgid "Ugoki"
+msgstr ""
+
+#: macros/characters.cfg:283
+msgid "Raaf"
+msgstr ""
+
+#: macros/deaths.cfg:8
+msgid "Ich konnte... sie nicht beschützen..."
+msgstr ""
+
+#: macros/deaths.cfg:8
+msgid "Ich habe... versagt..."
+msgstr ""
+
+#: macros/deaths.cfg:8
+msgid "..Ysedda..."
+msgstr ""
+
+#: macros/deaths.cfg:11
+msgid "Aber... wie?"
+msgstr ""
+
+#: macros/deaths.cfg:11
+msgid "Wie.. habt ihr...?"
+msgstr ""
+
+#: macros/deaths.cfg:11
+msgid "Ich...? Besiegt...?"
+msgstr ""
+
+#: macros/deaths.cfg:14
+msgid "Rette.. sie..."
+msgstr ""
+
+#: macros/deaths.cfg:14
+msgid "Ve.. <span size='small' font-style='italic'>*hust*</span> ... Veomyr..."
+msgstr ""
+
+#: macros/deaths.cfg:14
+msgid "Rette sie alle, Denvan! Rette sie!"
+msgstr ""
+
+#: macros/deaths.cfg:17
+msgid "Bleibt..standhaft!.."
+msgstr ""
+
+#: macros/deaths.cfg:17
+msgid "Zumindest... sehe ich sie nun wieder..."
+msgstr ""
+
+#. [message]: speaker=Gweod
+#. [message]: speaker=Phil
+#. [message]: speaker=Wemir
+#: macros/deaths.cfg:17 scenarios/01_attack_of_the_orcs.cfg:383 scenarios/01_attack_of_the_orcs.cfg:391 scenarios/01_attack_of_the_orcs.cfg:472
+msgid "Für Korstad!"
+msgstr ""
+
+#: macros/deaths.cfg:20
+msgid "Nein, Nicht.. mein Pferd... nein..."
+msgstr ""
+
+#: macros/deaths.cfg:20
+msgid "Der Tod vereint uns wieder!"
+msgstr ""
+
+#: macros/deaths.cfg:20
+msgid "Das... hab ich nicht kommen sehen..."
+msgstr ""
+
+#: macros/deaths.cfg:23
+msgid "Ein ehrenhaft- <span size='small' font-style='italic'>*hust*</span> -ter Tod... ist keine Schande..."
+msgstr ""
+
+#: macros/deaths.cfg:23
+msgid "Es war ein guter Kampf... oder?"
+msgstr ""
+
+#: macros/deaths.cfg:23
+msgid "Gut... gekämpft..."
+msgstr ""
+
+#: macros/deaths.cfg:26
+msgid "verdammte.. Orks..."
+msgstr ""
+
+#: macros/deaths.cfg:26
+msgid "Stand er einfach.. auf meinem Feld..."
+msgstr ""
+
+#: macros/deaths.cfg:26
+msgid "Wieso?.."
+msgstr ""
+
+#: macros/deaths.cfg:29
+msgid "Es tut.. weh.."
+msgstr ""
+
+#: macros/deaths.cfg:29
+msgid "<span size='small' font-style='italic'>schmerzerfüllt</span> aargh..."
+msgstr ""
+
+#: macros/deaths.cfg:29
+msgid "War es... nicht scharf genug?.."
+msgstr ""
+
+#: macros/deaths.cfg:33
+msgid "War es... das wert? ..."
+msgstr ""
+
+#: macros/deaths.cfg:34
+msgid "Sonst waren die Schatten...immer mein Freund..."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: macros/deaths.cfg:38
+msgid "Ven!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: macros/deaths.cfg:42
+msgid "<span size='small' font-style='italic'>traurig</span> Hätte ich ihn vielleicht ziehen lassen sollen?"
+msgstr ""
+
+#: macros/deaths.cfg:45
+msgid "Das hab..ich nun davon..."
+msgstr ""
+
+#: macros/deaths.cfg:49
+msgid "Ich... spüre die Magie nicht mehr. Was geschieht mit mir?"
+msgstr ""
+
+#: macros/deaths.cfg:50
+msgid "Meine Magie... sie schwindet..."
+msgstr ""
+
+#: macros/deaths.cfg:51
+msgid "argh.. du Wurm...!"
+msgstr ""
+
+#. [message]: speaker=Brealla
+#: macros/deaths.cfg:68
+msgid "<span size='small' font-style='italic'>lächelnd</span>Heh ..."
+msgstr ""
+
+#: macros/deaths.cfg:73
+msgid "Ich hatte doch noch so viel zu erz-"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: macros/deaths.cfg:77
+msgid "Halt endlich den Rand, Mensch!"
+msgstr ""
+
+#: macros/deaths.cfg:80
+msgid "Oh, Blut! Überall Blut! Was soll ich nur tu-"
+msgstr ""
+
+#: macros/deaths.cfg:93
+msgid "urghh..."
+msgstr ""
+
+#. [message]: speaker=Brealla
+#: macros/deaths.cfg:102
+msgid "Brealla: Dafür wirst du büßen!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: macros/defeats.cfg:26
+msgid "Und so wäre der Versuch das Tal einzunehmen gescheitert. Glücklicherweise trug es sich anders zu."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: macros/defeats.cfg:83 scenarios/01_attack_of_the_orcs.cfg:187 scenarios/01_attack_of_the_orcs.cfg:782 scenarios/01_attack_of_the_orcs.cfg:788 scenarios/01_attack_of_the_orcs.cfg:935 scenarios/01_attack_of_the_orcs.cfg:960 scenarios/01_attack_of_the_orcs.cfg:979 scenarios/01c_war_council.cfg:181 scenarios/02_the_fall.cfg:230 scenarios/02_the_fall.cfg:3153 scenarios/02_the_fall.cfg:3216 scenarios/02_the_fall.cfg:3234 scenarios/02_the_fall.cfg:3252 scenarios/02_the_fall.cfg:3270 scenarios/02_the_fall.cfg:3302
+msgid "Veomyr"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: macros/defeats.cfg:86
+msgid "Hier habe ich vielleicht etwas übertrieben, was die Verluste anging. Hätte Korstad nach der Schlacht keine Späher gehabt, wäre ein Sieg bedeutungslos geworden. Wenn ich die Geschichte erstmal richtig erzählt habe, wisst Ihr warum. Doch nun: Noch einmal von Anfang an...."
+msgstr ""
+
+#: macros/scenario-utils.cfg:4
+msgid "Should $unit.name ..."
+msgstr ""
+
+#: macros/scenario-utils.cfg:4
+msgid "$unit.name can't pick up Ugoki's Head"
+msgstr ""
+
+#: macros/scenario-utils.cfg:4
+msgid ".. leave Ugoki's Head"
+msgstr ""
+
+#: macros/scenario-utils.cfg:4
+msgid ".. pick up Ugoki's Head"
+msgstr ""
+
+#. [effect]: type=impact
+#. [object]
+#: macros/scenario-utils.cfg:6 macros/scenario-utils.cfg:13
+msgid "Ugoki's Head"
+msgstr ""
+
+#. [object]
+#: macros/scenario-utils.cfg:9
+msgid "The heavy and big Head of the Troll Hero Ugoki"
+msgstr ""
+
+#: macros/scenario-utils.cfg:26
+msgid "Should Denvan..."
+msgstr ""
+
+#: macros/scenario-utils.cfg:27
+msgid "..build an encampment"
+msgstr ""
+
+#: macros/scenario-utils.cfg:28
+msgid "..build not an encampment"
+msgstr ""
+
+#: macros/scenario-utils.cfg:29
+msgid "Only Denvan can tell where to build an encampment"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: macros/scenario-utils.cfg:39
+msgid "Here is a good place to build an encampment."
+msgstr ""
+
+#: macros/scenario-utils.cfg:48
+msgid "$unit.name can't build a sentry"
+msgstr ""
+
+#. [message]: speaker=unit
+#: macros/scenario-utils.cfg:51
+msgid "Build a sentry here!"
+msgstr ""
+
+#. [trait]: id=wild
+#: macros/traits.cfg:7
+msgid "wild"
+msgstr ""
+
+#. [trait]: id=wild
+#: macros/traits.cfg:8
+msgid "female^wild"
+msgstr ""
+
+#. [trait]: id=brist
+#: macros/traits.cfg:25
+msgid "brisk"
+msgstr ""
+
+#. [trait]: id=brist
+#: macros/traits.cfg:26
+msgid "female^brisk"
+msgstr ""
+
+#. [part]
+#: scenarios/01_attack_of_the_orcs.cfg:21
+msgid "Heute werde ich euch erzählen, wie sich unser Volk vom Rest der menschlichen Zivilisation zurückzog um in diesem Wald anzusiedeln, welcher nun schon so viele Jahre unsere Heimat ist, und welcher immer unsere Heimat bleiben wird."
+msgstr ""
+
+#. [part]
+#: scenarios/01_attack_of_the_orcs.cfg:25
+msgid "Natürlich wisst Ihr von Haldric, und seinem Feldzug gegen die Orks, welche uns Menschen über das Meer folgten, und nun auch versuchten, diesen neuen Kontinent an sich zu reissen."
+msgstr ""
+
+#. [part]
+#: scenarios/01_attack_of_the_orcs.cfg:29
+msgid "Um diese Monster zurückzuschlagen brauchte Haldric jeden waffenfähigen Kämpfer, den er finden konnte. Auf seinen Ruf hin schlossen sich Krieger aus Dörfern allerorten seiner Armee an, um der Bedrohung durch die Bestien ein Ende zu bereiten."
+msgstr ""
+
+#. [part]
+#: scenarios/01_attack_of_the_orcs.cfg:33
+msgid "Unter jenen Bürgern, die dem Ruf folgten, waren auch Helden aus dem Dorf Korstad, darunter auch der Anführer des Dorfes, Denvan und sein Bruder Lenvan. Doch um ihren Beitrag in den Schlachten Haldrics soll es hier nicht gehen."
+msgstr ""
+
+#. [part]
+#: scenarios/01_attack_of_the_orcs.cfg:37
+msgid "Unsere Geschichte beginnt nämlich nur Tage vor der Rückkehr der Krieger Korstads in ihre Heimat, welche unterdessen von Johan, dem Stellvertreter Denvans, geleitet wurde. Obgleich Johans Fähigkeiten das Dorf zu führen unbestritten waren, wandten sich die Dorfbewohner zumeist eher an Ysedda, die Frau Denvans und inoffizielle Anführerin des Dorfes. So geschah es auch, als eines Tages der Feind vor Korstads Türen stand..."
+msgstr ""
+
+#. [side]
+#. [side]: id=Haldar facing nw}, id=Bledoc facing sw}, id=Lin facing sw}, id=Phil facing se}, id=Moran facing se}
+#: scenarios/01_attack_of_the_orcs.cfg:54 scenarios/02_the_fall.cfg:39 scenarios/03_fog_of_war.cfg:303
+msgid "Korstadter"
+msgstr ""
+
+#. [side]: id=Haldar facing nw}, id=Bledoc facing sw}, id=Lin facing sw}, id=Phil facing se}, id=Moran facing se}
+#: scenarios/01_attack_of_the_orcs.cfg:59
+msgid "Haldar"
+msgstr ""
+
+#. [side]: id=Haldar facing nw}, id=Bledoc facing sw}, id=Lin facing sw}, id=Phil facing se}, id=Moran facing se}
+#: scenarios/01_attack_of_the_orcs.cfg:61
+msgid "Bledoc"
+msgstr ""
+
+#. [side]: id=Haldar facing nw}, id=Bledoc facing sw}, id=Lin facing sw}, id=Phil facing se}, id=Moran facing se}
+#: scenarios/01_attack_of_the_orcs.cfg:63
+msgid "Lin"
+msgstr ""
+
+#. [side]: id=Haldar facing nw}, id=Bledoc facing sw}, id=Lin facing sw}, id=Phil facing se}, id=Moran facing se}
+#: scenarios/01_attack_of_the_orcs.cfg:65
+msgid "Phil"
+msgstr ""
+
+#. [side]: id=Haldar facing nw}, id=Bledoc facing sw}, id=Lin facing sw}, id=Phil facing se}, id=Moran facing se}
+#: scenarios/01_attack_of_the_orcs.cfg:67
+msgid "Moran"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/01_attack_of_the_orcs.cfg:148
+msgid "Resist until the end of the turns"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/01_attack_of_the_orcs.cfg:153
+msgid "or:"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/01_attack_of_the_orcs.cfg:154
+msgid "Defeat Grogul"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_attack_of_the_orcs.cfg:159 scenarios/02_the_fall.cfg:209 scenarios/02_the_fall.cfg:2928
+msgid "Death of Johan"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_attack_of_the_orcs.cfg:163 scenarios/02_the_fall.cfg:205 scenarios/02_the_fall.cfg:2924
+msgid "Death of Ysedda"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_attack_of_the_orcs.cfg:167
+msgid "Death of all Town Watch members"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_attack_of_the_orcs.cfg:171
+msgid "Death of all Scout members"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_attack_of_the_orcs.cfg:190
+msgid "Der Bauer Haldar stürmte eines Tages aufgelöst auf den Marktplatz, um Ysedda um Beistand zu bitten."
+msgstr ""
+
+#. [message]: speaker=Haldar
+#: scenarios/01_attack_of_the_orcs.cfg:199
+msgid "Ysedda! Ysedda! Ich brauche deine Hilfe!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:210
+msgid "Beruhige dich Haldar."
+msgstr ""
+
+#. [message]: speaker=Bisam
+#. [message]: speaker=Dehal
+#. [message]: speaker=Haldar
+#: scenarios/01_attack_of_the_orcs.cfg:214 scenarios/01_attack_of_the_orcs.cfg:565 scenarios/02_the_fall.cfg:1417 scenarios/02_the_fall.cfg:1427
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:218
+msgid "Und nun erzähle mir, was passiert ist."
+msgstr ""
+
+#. [message]: speaker=Haldar
+#: scenarios/01_attack_of_the_orcs.cfg:222
+msgid "Ich habe einen Kobold entdeckt! Er steht auf meinem Feld!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:226
+msgid "Ein Kobold... 'steht' auf deinem Feld? Du meinst, er hat dich angegriffen?"
+msgstr ""
+
+#. [message]: speaker=Haldar
+#: scenarios/01_attack_of_the_orcs.cfg:230
+msgid "Nun... nein. Ich habe gerade eine Wurzel ausgraben müssen, ein riesiges Teil, das mindestens zwei Meter lang war, ich habe keine Ahnung, wieso die nicht früher im Weg war... Jedenfalls, als ich aufsah, stand dieser Kobold da und hat mich einfach angestarrt! Ich dachte zuerst, er würde mich sofort töten, aber der hat sich nicht gerührt. Nichtmal, als ich ihn angesprochen habe. Stand einfach da und hat gestarrt."
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/01_attack_of_the_orcs.cfg:234
+msgid "Moment! Habe ich richtig gehört? Es wurden Orks gesichtet?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:238
+msgid "Keine Bange, Johan, ich kümmere mich schon darum und erzähle dir später, was los war. Es klingt nicht danach, als wären wir in Gefahr."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:242
+msgid "Komm Haldar, zeige mir diesen Kobold."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:259
+msgid "Wer bist du? Was tust du hier?"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01_attack_of_the_orcs.cfg:263
+msgid "Ich bin Karga! Ich spähe."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:267
+msgid "Wie bitte?"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01_attack_of_the_orcs.cfg:271
+msgid "Ich bin Karga! Ich spä-... Darf ich nicht sagen. Bin Späher. Muss unauffällig sein."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:275
+msgid "Ich sehe dich vor mir. Auffälliger wärst du nur, wenn du mit einer Armee in's Dorf marschieren würdest."
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01_attack_of_the_orcs.cfg:279
+msgid "<span size='small' font-style='italic'>erschrocken</span> Verstecken! Stimmt! Ich hab's vergessen."
+msgstr ""
+
+#. [message]: speaker=Haldar
+#: scenarios/01_attack_of_the_orcs.cfg:283
+msgid "<span size='small' font-style='italic'>leise</span> Das Monster ist verrückt!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:287
+msgid "<span size='small' font-style='italic'>ihn ignorierend</span> Warum genau bist du hier?"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01_attack_of_the_orcs.cfg:291
+msgid "Ich spähe das Dorf aus. Für den Angriff nachher."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:295
+msgid "Ihr greift uns an? Noch heute?!"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01_attack_of_the_orcs.cfg:299
+msgid "Jap, verdammter Grogul hat's so befohlen. Marschieren bei Sonnenuntergang los. Glaubt, er kann euch allein besiegen. Will vor den anderen gut dar stehen. Muss jetzt los, ihm berichten."
+msgstr ""
+
+#. [message]: speaker=Haldar
+#: scenarios/01_attack_of_the_orcs.cfg:307
+msgid "Ich habe noch nie jemanden so schnell rennen sehen."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:311
+msgid "Komm Haldar! Wir müssen Johan informieren und dann das Dorf alarmieren!"
+msgstr ""
+
+#. [event]: id=Haldar 15 12}, id=Ysedda 15 11}, id=Karga 5 2}, id=Ysedda 20 15}, id=Haldar 19 15}, id=Bledoc facing w}, id=Lin facing w}, id=Moran facing n}, id=Phil facing n}, id=Haldar 17 13}, id=Baldur 15 15}, id=Wemir 16 17}, id=Bledoc facing nw}, id=Lin facing nw}, id=Moran facing nw}, id=Phil facing nw}
+#: scenarios/01_attack_of_the_orcs.cfg:319
+msgid "Baldur"
+msgstr ""
+
+#. [event]: id=Haldar 15 12}, id=Ysedda 15 11}, id=Karga 5 2}, id=Ysedda 20 15}, id=Haldar 19 15}, id=Bledoc facing w}, id=Lin facing w}, id=Moran facing n}, id=Phil facing n}, id=Haldar 17 13}, id=Baldur 15 15}, id=Wemir 16 17}, id=Bledoc facing nw}, id=Lin facing nw}, id=Moran facing nw}, id=Phil facing nw}
+#: scenarios/01_attack_of_the_orcs.cfg:320
+msgid "Wemir"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:331
+msgid "Bürger von Korstad, ich habe schreckliches zu verkünden."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:335
+msgid "Wir haben erfahren, dass noch heute eine Armee von Orks unser Dorf angreifen wird."
+msgstr ""
+
+#. [message]: speaker=Wemir
+#: scenarios/01_attack_of_the_orcs.cfg:339
+msgid "Was?"
+msgstr ""
+
+#. [message]: speaker=Baldur
+#: scenarios/01_attack_of_the_orcs.cfg:343
+msgid "Orks? Hier?"
+msgstr ""
+
+#. [message]: speaker=Gweod
+#: scenarios/01_attack_of_the_orcs.cfg:347
+msgid "Ich dachte, die Schlachten sollten weit entfernt von hier stattfinden!"
+msgstr ""
+
+#. [message]: speaker=Baldur
+#: scenarios/01_attack_of_the_orcs.cfg:351
+msgid "Das ist zu nah!"
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/01_attack_of_the_orcs.cfg:355
+msgid "Beruhigt euch, und hört euch an, was sie zu sagen hat!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:359
+msgid "Wie ihr wisst, haben wir momentan nur wenige Wachen. Aber das bedeutet nicht, dass wir schutzlos sind! Wenn die Orks unser Dorf wollen, müssen sie erst an uns vorbei, und ich soll verflucht sein, wenn ihnen das gelingt!"
+msgstr ""
+
+#. [message]: type=Bowman
+#: scenarios/01_attack_of_the_orcs.cfg:363
+msgid "Leicht werden wir es ihnen nicht machen!"
+msgstr ""
+
+#. [message]: speaker=Gweod
+#: scenarios/01_attack_of_the_orcs.cfg:367
+msgid "Ich habe noch mein Schwert zu Hause!"
+msgstr ""
+
+#. [message]: speaker=Baldur
+#: scenarios/01_attack_of_the_orcs.cfg:371
+msgid "Wir kämpfen!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:375
+msgid "Wir werden uns nicht ergeben! Und wenn in drei Tagen unsere Kämpfer zurückkehren, dann wird das Dorf noch stehen! Dann werden wir noch stehen! Heute werden wir gegen die Orks kämpfen! Und wir werden gewinnen!"
+msgstr ""
+
+#. [message]: speaker=Baldur
+#: scenarios/01_attack_of_the_orcs.cfg:379
+msgid "Nieder mit den Orks!"
+msgstr ""
+
+#. [message]: speaker=Haldar
+#: scenarios/01_attack_of_the_orcs.cfg:387
+msgid "Wir werden gewinnen!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_attack_of_the_orcs.cfg:394
+msgid "Alle"
+msgstr ""
+
+#. [message]: speaker=Gweod
+#. [message]: speaker=Johan
+#. [message]: speaker=narrator
+#: scenarios/01_attack_of_the_orcs.cfg:396 scenarios/01_attack_of_the_orcs.cfg:468 scenarios/01_attack_of_the_orcs.cfg:476
+msgid "FÜR KORSTAD!"
+msgstr ""
+
+#. [message]: speaker=Gweod
+#: scenarios/01_attack_of_the_orcs.cfg:433
+msgid "Die Klinge hat ein paar Scharten, aber für Orkfleisch wird es reichen!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:443
+msgid "Sie sind da!"
+msgstr ""
+
+#. [message]: speaker=Lin
+#: scenarios/01_attack_of_the_orcs.cfg:447
+msgid "Das sind zu viele!"
+msgstr ""
+
+#. [message]: speaker=Gweod
+#: scenarios/01_attack_of_the_orcs.cfg:451
+msgid "Dagegen kommen wir nicht an!"
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/01_attack_of_the_orcs.cfg:455
+msgid "Natürlich kommen wir gegen sie an! Wir kommen gegen sie an, weil wir gar keine andere Wahl haben, als gegen sie anzukommen! Hier und heute heißt es nicht nur 'Sieg oder Niederlage'! Es heißt ‘Leben oder Tod’! Wenn wir verlieren werden wir vernichtet! Und nicht nur wir, sondern auch unsere Familien!"
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/01_attack_of_the_orcs.cfg:464
+msgid "Heute werden wir siegen, weil wir keine Wahl haben! Wir werden siegen, weil Korstad sonst verschwindet und vergessen wird! Wir werden siegen, weil wir genau das niemals zulassen werden! Und wenn wir unser Leben dafür lassen müssen, dann tun wir das mit einem Lachen, da wir wissen: Korstad bleibt bestehen!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:480
+msgid "Wir sollten die Kundschafter rufen. Wir können jeden Mann gebrauchen und die vier sind die stärksten Kämpfer, die wir haben."
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/01_attack_of_the_orcs.cfg:484
+msgid "<span size='small' font-style='italic'>leise</span> Du hast Recht."
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/01_attack_of_the_orcs.cfg:488
+msgid "Blast das Horn! Ruft die Reiter zurück ins Dorf!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_attack_of_the_orcs.cfg:511
+msgid "Ein Hornstoß ertönt"
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/01_attack_of_the_orcs.cfg:528
+msgid "Sieh dir das an! Ich sage seit Monaten, dass vier Späher nicht genug sind um einen Orkangriff im Voraus zu entdecken!"
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/01_attack_of_the_orcs.cfg:532
+msgid "Wir sollten uns nicht damit aufhalten, wie Recht du hattest, sondern eingreifen."
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/01_attack_of_the_orcs.cfg:536
+msgid "Du hast Recht- Attacke!"
+msgstr ""
+
+#. [message]: speaker=Gweod
+#: scenarios/01_attack_of_the_orcs.cfg:540
+msgid "Die Reiter sind hier! Die werden es den Orks zeigen!"
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/01_attack_of_the_orcs.cfg:561
+msgid "Scheint als läge ich falsch. Das ist keine Übung."
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/01_attack_of_the_orcs.cfg:569
+msgid "Guck mich nicht mit diesem ‘Ich hab’s dir ja gesagt’-Blick an! Das hilft nicht! Lass uns unser Dorf verteidigen!"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/01_attack_of_the_orcs.cfg:600
+msgid "Das Dorf geht vor die Hunde, und die Leute verriegeln die Tür dennoch... Haben die denn keine wichtigeren Sorgen?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:604
+msgid "Offenbar sind ihre Sorgen berechtigt! Solltest du nicht lieber gegen die Orks kämpfen, anstatt hier aus ihrem Angriff Profit zu schlagen?"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/01_attack_of_the_orcs.cfg:608
+msgid "Gegen die Orks kämpfen? Wie verrückt sehe ich für euch aus?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:612
+msgid "Du färbst dir als Einbrecher die Haare weiß, auf mich wirkt das ziemlich verrückt."
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/01_attack_of_the_orcs.cfg:616
+msgid "Das ist Tradition... Das ich der nachgehe, heißt noch lange nicht, dass ich meine Freiheit nicht wertschätze. Wenn ich mein Leben wegwerfen wollte, würde ich mich den Wachen stellen!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:620
+msgid "Wie wäre es dann damit: Du beginnst, deiner Pflicht als Bürger des Dorfes nachzugehen, oder wir setzen dich hier fest, damit die Wachen dich nach der Schlacht abholen können."
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/01_attack_of_the_orcs.cfg:624
+msgid "Ihr geht davon aus, dass ihr gewinnt. Das tue ich nicht zwangsläufig."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:628
+msgid "Dann denk darüber nach, ob dir deine Chancen gefallen, wenn wir dich hier gefesselt zurücklassen, und die Orks dich finden..."
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/01_attack_of_the_orcs.cfg:632
+msgid "... ... Wisst Ihr was? Ihr habt Recht! Das Dorf ist es wert, gerettet zu werden!"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01_attack_of_the_orcs.cfg:656
+msgid "Ich sterbe nicht! Habe Spielzeug von 'nem Menschenzauberer! Und du bleibst hier!"
+msgstr ""
+
+#. [message]: speaker=Grogul
+#: scenarios/01_attack_of_the_orcs.cfg:701
+msgid "Das ist nicht <span size='small' font-style='italic'>*hustet*</span> vorbei! Ihr könnt uns nicht <span size='small' font-style='italic'>*hustet*</span> besiegen!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:705
+msgid "<span size='small' font-style='italic'>freudig</span> Das sehe ich ganz anders."
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/01_attack_of_the_orcs.cfg:709
+msgid "Es scheint eher, als könntet ihr uns nicht besiegen."
+msgstr ""
+
+#. [message]: type=Bowman, Woodsman
+#: scenarios/01_attack_of_the_orcs.cfg:755
+msgid "Ihr hattet Recht! Unser Dorf ist stark!"
+msgstr ""
+
+#. [message]: type=Spearman, Peasant
+#: scenarios/01_attack_of_the_orcs.cfg:759
+msgid "Selbst, wenn wir nicht von der Armee beschützt werden!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:763
+msgid "Dennoch werde ich mich sicherer fühlen, wenn Denvan zurückkehrt."
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01_attack_of_the_orcs.cfg:767
+msgid "<span size='small' font-style='italic'>friedlich mitredend</span> Ja, ohne Armee wird das Dorf beim nächsten Angriff vernichtet. Wird viel größer."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:771
+msgid "<span size='small' font-style='italic'>erschrocken</span> Was machst du hier?! Ich sollte dir sofort den Kopf abschlagen!"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01_attack_of_the_orcs.cfg:775
+msgid "<span size='small' font-style='italic'>beleidigt</span> Ich geh ja schon! Wir sehen uns."
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/01_attack_of_the_orcs.cfg:779
+msgid "An deiner Stelle würde ich das vermeiden!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_attack_of_the_orcs.cfg:785
+msgid "So wäre es wohl gekommen, wenn Denvans Trupp nicht rechtzeitig zurückgekehrt wäre. Zumindest wurde mir das immer versichert."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_attack_of_the_orcs.cfg:791
+msgid "Und es macht kaum einen Unterschied, denn nachdem Denvan zurückgekehrt war, hielt der Frieden nur wenige Tage."
+msgstr ""
+
+#. [message]: speaker=Grogul
+#: scenarios/01_attack_of_the_orcs.cfg:842
+msgid "Ihr solltet aufgeben! Dann verschonen wir vielleicht ein pa-"
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/01_attack_of_the_orcs.cfg:858
+msgid "Treffer. Ich will nicht sagen, dass das niemand anderes auf die Entfernung geschafft hätte..."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/01_attack_of_the_orcs.cfg:862
+msgid "Aber du möchtest schon, dass man es weiß, ich verstehe schon."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/01_attack_of_the_orcs.cfg:878
+msgid "Leute, ich denke wir haben ihre Aufmerksamkeit."
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/01_attack_of_the_orcs.cfg:883
+msgid "Jetzt lasst uns dieses Pack aus unserem Dorf vertreiben!"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01_attack_of_the_orcs.cfg:887
+msgid "Grogul ist tot! Orks, mir nach! Wir kommen bald zurück! Folgt mir!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:912
+msgid "Denvan! Du bis endlich zurück!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/01_attack_of_the_orcs.cfg:916
+msgid "<span size='small' font-style='italic'>scherzhaft</span> Hätte ich gewusst, dass Ihr Orks in's Dorf lasst, wären wir schon früher gekommen!"
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/01_attack_of_the_orcs.cfg:920
+msgid "Glaubst du wirklich, dass dies der richtige Zeitpunkt für Scherze ist? Hier sind Menschen gestorben! Korstad war in Gefahr!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/01_attack_of_the_orcs.cfg:924
+msgid "<span size='small' font-style='italic'>beschämt</span> Du hast Recht, Johan."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/01_attack_of_the_orcs.cfg:928
+msgid "<span size='small' font-style='italic'>besorgt</span> Geht es den Kindern gut?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/01_attack_of_the_orcs.cfg:932
+msgid "Sie haben sich während der Schlacht versteckt und hatten Angst, aber ihnen ist nichts passiert. Komm, sie werden die Schrecken schnell vergessen, wenn sie ihren Vater sehen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_attack_of_the_orcs.cfg:938
+msgid "Und so wurden die Orks aus Korstad von den Helden des Dorfes verjagt. Aber wie ihr wisst, kann das leider nicht das Ende der Geschichte sein und der Frohsinn, den die Heimkehr Denvans brachte, hielt nur für wenige Tage an."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_attack_of_the_orcs.cfg:963
+msgid "Wäre Ysedda damals gestorben, wären die Streitkräfte des Dorfes wohl im Nu zersplittert, die Schlacht wäre bald verloren gewesen und ich könnte euch diese Geschichte nicht erzählen. Sie hat also natürlich überlebt."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_attack_of_the_orcs.cfg:982
+msgid "Nein, da stimmt etwas nicht. Johan starb nicht in Korstad. Lasst mich noch einmal beginnen."
+msgstr ""
+
+#. [scenario]: id=01c_war_council
+#: scenarios/01c_war_council.cfg:5
+msgid "War Council"
+msgstr ""
+
+#. [part]
+#: scenarios/01c_war_council.cfg:20
+msgid "Ich weiß natürlich nicht genau, wie eine Versammlung der Orks aussieht, aber ich bin mir sicher, es gab eine. Nach dem misslungenen Angriff auf Korstad versammelten sich also die Anführer der Orks zu einem Kriegsrat, in dem sie Pläne schmiedeten, um das Dorf doch noch zu stürzen."
+msgstr ""
+
+#. [side]
+#: scenarios/01c_war_council.cfg:32 scenarios/01c_war_council.cfg:43 scenarios/01c_war_council.cfg:53 scenarios/01c_war_council.cfg:63
+msgid "Orcs"
+msgstr ""
+
+#. [side]
+#: scenarios/01c_war_council.cfg:35
+msgid "?"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01c_war_council.cfg:79
+msgid "... und so wurde ich eben zum neuen Anführer unserer Truppen."
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:84
+msgid "Grogul hat dich als Nachfolger bestimmt? Mit seinen letzten Worten?"
+msgstr ""
+
+#. [message]: speaker=Gaol
+#: scenarios/01c_war_council.cfg:89
+msgid "Einen verrückten Kobold als Anführer? Wie soll das denn funktionieren? Kein Ork der was auf sich hält wird dem Abschaum folgen!"
+msgstr ""
+
+#. [message]: speaker=Morgal
+#: scenarios/01c_war_council.cfg:93
+msgid "Grogul wird sich etwas dabei gedacht haben. Ich akzeptiere sein Urteil. Und das werdet Ihr zwei auch! Enttäusche mich nicht, Karga, das ist deine einzige Chance. Varag, behalt' die Trottel unter Kontrolle! Ich mache mich wieder auf den Weg nach Kor Mhazgur."
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:107
+msgid "... Na gut, wie er meint. Die Menschen sind noch ausgelaugt, wir dürften also keine Probleme haben, wenn wir jetzt sofort zuschlagen."
+msgstr ""
+
+#. [message]: speaker=Gaol
+#: scenarios/01c_war_council.cfg:111
+msgid "Ja! Wir werden sie zertrampeln!"
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:115
+msgid "Halte deine Leute unter Kontrolle, Gaol! Tot nützen uns die Menschen nichts."
+msgstr ""
+
+#. [message]: speaker=Gaol
+#: scenarios/01c_war_council.cfg:119
+msgid "Ich verstehe immernoch nicht, warum wir sie nicht einfach töten! Die können doch kaum arbeiten! Sie sind viel zu schwach!"
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:123
+msgid "Aber es sind viele und wir brauchen sie nicht für den Kampf. Das sollte dir doch gelegen kommen. Je mehr Menschen das Bauen für uns übernehmen, desto mehr können wir uns auf die richtigen Kämpfe konzentrieren."
+msgstr ""
+
+#. [message]: speaker=Gaol
+#: scenarios/01c_war_council.cfg:127
+msgid "<span size='small' font-style='italic'>knurrend</span> Trotzdem. Wir werden sie zerquetschen. Sanft genug, dass sie noch arbeiten können."
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01c_war_council.cfg:131
+msgid "Sie sind noch wachsam! Haben Soldaten, die eben noch gekämpft haben. Wir sollten warten."
+msgstr ""
+
+#. [message]: speaker=Gaol
+#: scenarios/01c_war_council.cfg:135
+msgid "Wieso warten, Kobold? Wir sind keine feigen Ratten, wir sind Orks! Wir kämpfen nicht nur gegen Bauern!"
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:139
+msgid "Aber Karga könnte recht haben. Schließlich war er bei der Schlacht dabei, und weiß besser, gegen wen wir antreten. Wir warten also, bis sich die Menschen wieder sicher fühlen."
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:143
+msgid "In zehn Tagen -"
+msgstr ""
+
+#. [message]: speaker=Gaol
+#: scenarios/01c_war_council.cfg:147
+msgid "Nicht zehn! Ich ziehe spätestens in fünf Tagen los!"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01c_war_council.cfg:151
+msgid "Gaol hat Recht. Zehn Tage sind zu viel."
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:155
+msgid "Na gut, dann in fünf Tagen... In fünf Tagen greifen wir an. Wie wir es vor Groguls überstürzten Angriff geplant haben, attackieren wir sie von vier Seiten. Gaol von Süden, Kargas Truppen von Westen und Osten und meine aus dem Norden, so dass niemand entkommen kann."
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/01c_war_council.cfg:159
+msgid "Habe nicht genug Truppen. Grogul hat zu viele verloren."
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:163
+msgid "<span size='small' font-style='italic'>genervt</span> Fein, dann übernehme ich auch den Westen. Meine Schützen brauchen die Nahkämpfer als Schutz, deswegen komme ich mit der gesamten Streitmacht von dort, und werde dann einen Teil der Armee nach Norden schicken, um den Menschen den Weg abzuschneiden.<span size='small' font-style='italic'>genervt</span> Dann übernehme ich eben auch den Osten. Meine Schützen brauchen die Nahkämpfer als Schutz, deswegen komme ich mit der gesamten Streitmacht von dort und werde dann einen Teil der Armee nach Norden schicken, um den Menschen den Weg abzuschneiden."
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:167
+msgid "Jeder so weit einverstanden?"
+msgstr ""
+
+#. [message]: speaker=Gaol
+#: scenarios/01c_war_council.cfg:174
+msgid "<span size='small' font-style='italic'>missmutig</span> Fünf Tage sind zu lang."
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/01c_war_council.cfg:178
+msgid "Das sehe ich als ein 'Ja'. Wir sehen uns bei Morgengrauen in fünf Tagen auf dem Schlachtfeld."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01c_war_council.cfg:184
+msgid "Und das Unheil nahm erneut seinen Lauf."
+msgstr ""
+
+#. [scenario]: id=02_the_fall
+#: scenarios/02_the_fall.cfg:5
+msgid "The Fall"
+msgstr ""
+
+#. [part]
+#: scenarios/02_the_fall.cfg:22
+msgid "Während die Orks ihre finsteren Pläne schmiedeten, mühte man sich in Korstad, wieder zur Normalität zurückzukehren und die Schäden, die die Angreifer angerichtet hatten, wieder zu richten."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_the_fall.cfg:195
+msgid "Alert your friends"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_the_fall.cfg:201 scenarios/02_the_fall.cfg:2920
+msgid "Death of Denvan"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_the_fall.cfg:213 scenarios/02_the_fall.cfg:2936
+msgid "Death of the Scouts"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:233
+msgid "Denvan und seine Krieger waren zu erfahren, um sich darauf zu verlassen, dass der Kobold nur leere Drohungen ausgestoßen hatte, und so entsandte man Späher um die Gegend auszukundschaften."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:275 scenarios/02_the_fall.cfg:344 scenarios/02_the_fall.cfg:410 scenarios/02_the_fall.cfg:466
+msgid "<span size='small' font-style='italic'>wütend</span> Wer stört zu dieser Stunde? Was ist so dringend, dass es nicht warten kann, bis ich mein morgendliches Mahl zu mir genommen habe?"
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:286
+msgid "Ich habe Orks gesichtet. Sie machen sich kampfbereit und werden sicher bald angreifen!"
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:292
+msgid "Wir haben Orks gesichtet. Sie machen sich kampfbereit und werden sicher bald angreifen!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:300 scenarios/02_the_fall.cfg:368
+msgid "<span size='small' font-style='italic'>ernst</span> Wie viele? Von wo? Berichte!"
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:305
+msgid "Es sind mehr als beim letzten Mal und sie lagern im Süden."
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:355
+msgid "Entschuldigt, Herr. Ich habe noch mehr Orks entdeckt."
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:361
+msgid "Entschuldigt, Herr. Wir haben noch mehr Orks entdeckt."
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:372
+msgid "Sie lagern südlich von hier. Und es sind mehr als beim letzten Angriff."
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:415 scenarios/02_the_fall.cfg:471
+msgid "Verzeiht, ich wusste nicht, dass euer Frühstück wichtiger ist als das Wohl des Dorfes."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:419 scenarios/02_the_fall.cfg:475
+msgid "Das ist es natürlich nicht…"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:423 scenarios/02_the_fall.cfg:479
+msgid "Sehr gut. Denn im Süden lagert ein großer Haufen Orks, der sich marschbereit macht"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:427 scenarios/02_the_fall.cfg:483
+msgid "<span size='small' font-style='italic'>wütend</span> Und da scherzt du noch?"
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/02_the_fall.cfg:431
+msgid "Immer."
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:435
+msgid "“Red’ nicht zuviel, Bisam. Passt nicht zu dir. Und zu mir passt es nicht, mich ausschimpfen zu lassen. Tut Ihr nun etwas gegen die Orks?"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:439 scenarios/02_the_fall.cfg:491
+msgid "Natürlich tue ich etwas!"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:487
+msgid "Ich lasse mich einfach nicht gerne dafür ausschimpfen, dass ich meine Arbeit verrichte.  Tut Ihr nun etwas gegen die Orks?"
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/02_the_fall.cfg:519
+msgid "…"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:523
+msgid "<span size='small' font-style='italic'>ruhiger</span>Ah, du bist es. Was hast du herausgefunden?"
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/02_the_fall.cfg:527
+msgid "Es gibt mehr Orks."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:531
+msgid "<span size='small' font-style='italic'>ernst</span> Wie viele? Wo? Berichte!"
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/02_the_fall.cfg:535
+msgid "Ich habe viele im Süden gesehen."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:539
+msgid "Viele? Mehr als beim ersten Angriff?"
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/02_the_fall.cfg:543
+msgid "Ja."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:552
+msgid "Ysedda, ich muss los. Die Orks greifen erneut an, und ich muss die Truppen mobilisieren."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:558
+msgid "<span size='small' font-style='italic'>von drinnen</span> Ich bringe die Kinder in Sicherheit und stoße später wieder zu dir!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:562
+msgid "Wir müssen allen Bescheid geben. Niemand sollte unvorbereitet in die Schlacht ziehen."
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:572
+msgid "Sofort, Herr"
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:578
+msgid "Verstanden, auf dem Weg."
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:584
+msgid "Ich sage seit Jahren, dass wir eine Dorfglocke brauchen. Damit hätten wir im Nu alle alarmiert."
+msgstr ""
+
+#. [message]
+#: scenarios/02_the_fall.cfg:600
+msgid "<span size='small' font-style='italic'>nickend</span>…"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:677
+msgid "Bei Mena wird es den Kindern gut gehen, bis es wieder sicher ist. Jetzt sollte ich mich darauf konzentrieren, das Dorf zu schützen."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:708
+msgid "Wir können jede Unterstützung gebrauchen, die wir kriegen können. Ich sollte versuchen, Ven davon zu überzeugen an unserer Seite zu kämpfen. Wenn ich ihn dafür aus dem Kerker lasse, wird er sich uns sicher anschließen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:749
+msgid "Sieh an, da kommt die Kerkermeisterin. Wollt ihr euch an eurer Beute satt sehen?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:754
+msgid "Ich könnte dich noch so lange anstarren, ohne dass mein Appetit in irgendeiner Form gesättigt würde."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:761
+msgid "Ihr müsst einen unstillbaren Hunger haben."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:766
+msgid "Oder mir reicht einfach kein Mahl, das zum Großteil aus heißer Luft besteht."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:773
+msgid "Heiße Luft? Ich? Ich kann nur mit heißem Blut aufwarten."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:778
+msgid "Dann beweise es. Schließe dich uns erneut im Kampf gegen die Orks an und wir lassen dich danach laufen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:785
+msgid "Und was hält mich davon ab, einfach zu fliehen, wenn Ihr mich raus lasst und mir meine Dolche gebt?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:790
+msgid "Nichts. Aber deine Entscheidung wird uns beiden zeigen, ob du so heißblütig bist, wie du behauptest."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:797
+msgid "Nichts beweise ich euch lieber, Mylady."
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:890
+msgid "des Schneiders"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:901
+msgid "des Schäfers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:912
+msgid "des Anglers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:923
+msgid "des Minenarbeiters"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:934
+msgid "des Bauern"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:945
+msgid "des Kräuterhändlers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:956
+msgid "der Wirtin"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:967
+msgid "Haldars"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:978
+msgid "des Holzfällers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:989
+msgid "des Feldarbeiters"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1000
+msgid "des Metzgers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1011
+msgid "Gweods"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1022
+msgid "des Försters"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1033
+msgid "des Schmieds"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1044
+msgid "des Hutmachers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1055
+msgid "der Weberin"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1066
+msgid "des Jägers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1077
+msgid "des Gerbers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1088
+msgid "des Tischlers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1099
+msgid "des Müllers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1110
+msgid "des Bäckers"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1121
+msgid "der alten Hexe"
+msgstr ""
+
+#. [then]
+#: scenarios/02_the_fall.cfg:1132
+msgid "des Eremiten"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:1137
+msgid "Was machst du denn hier? Das ist das Haus $neighbour_is!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1148
+msgid "Der wohnt ein Haus weiter. Das hier gehört ei-.. mir."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:1152
+msgid "Du plünderst schon wieder, statt zu kämpfen?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1158
+msgid "Und wenn? Am Ende wird eh kein Kerker mehr übrig sein, in dem ich geworfen werden könnte!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:1162
+msgid "Stimmt. Um genau zu sein, können wir nicht nur keinen Kerker mitnehmen, sondern auch keine Diebe, die nur Ballast sind!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1168
+msgid "Ich sehe schon, wo das hinführt. Nun gut, weil Ihr so nett darum bittet: Ich verteidige erneut mit Euch die Bewohner"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1219
+msgid "<span size='small' font-style='italic'>gespielt bestürzt</span> Denvan! Du kannst doch nicht einfach so in das Haus einer allein lebenden Dame stürmen! Was sollen die Leute von uns denken?"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:1223
+msgid "Darüber kann ich mir keine Gedanken machen. Das Dorf wird bald angegriffen, du wirst gebraucht!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1229
+msgid "<span size='small' font-style='italic'>(etwas) ernster</span> Warum sagst du das nicht gleich? Ich bin unterwegs!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1247
+msgid "<span size='small' font-style='italic'>gespielt betroffen</span> Oh, Ysedda, ich wusste, dass das Gespräch auf uns zukommen würde. Doch so bald?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:1251
+msgid "... Wie bitte?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1257
+msgid "Oh, deswegen bist du nicht hier? Was gibt es, meine liebe?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:1261
+msgid "Das Dorf wird bald angegriffen. Ich weiß, du lebst hier nicht, aber wir brauchen deine Hilfe bei der Verteidigung."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1267
+msgid "<span size='small' font-style='italic'>(etwas) ernster</span> Ich habe schon mitbekommen, dass der Frieden hier nicht gewahrt ist. Es wäre wohl undankbar, sich jetzt allein davonzumachen, ich helfe euch natürlich."
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/02_the_fall.cfg:1283
+msgid "Brealla, wir sollten uns bereit machen, die Orks kommen zurück"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1289
+msgid "Welch unromantisches Ansinnen. Und du wunderst dich, warum dir die Frauen nicht verfallen."
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/02_the_fall.cfg:1293
+msgid "Ich wundere mich keinesfalls und sie tun es reihenweise. Nur du spielst noch vor, gegen meinen Charm immun zu sein."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1299
+msgid "Du hast völlig Recht! Ich würde dir sofort um den Hals fallen, doch müssen wir ja leider Orks jagen."
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:1315
+msgid "Brealla? Brealla, wo bist du? Mir wurde gesagt, du seist hier. Wir brauchen deine Magie, um die Orks zurückzuschlagen, die das Dorf angreifen werden! Ich habe gehört, es sind sehr viele und unsere Waffen reichen ja kaum aus, um die Kobolde zu erlegen, geschweige denn die ausgewachsenen Orks, die tra-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1321
+msgid "Ganz ruhig, mein Kleiner, ich habe dir schonmal gesagt, dass wenige Worte genauso effektiv sein können. Gehen wir."
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:1325
+msgid "Alles kl-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1331
+msgid "<span size='small' font-style='italic'>freundlich</span> Schweigend, mein Kleiner, schweigend."
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:1347
+msgid "Interessante Vase. Woher stammt die?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1353
+msgid "Oh, die habe ich selbst gemacht. Behalte sie, wenn sie dir gefällt."
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:1357
+msgid "Oh nein, danke. Ich bin nur hier, um dich zu informieren, dass das Dorf demnächst angegriffen wird und jede Hilfe benötigt wird."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1363
+msgid "Und da wurde ich gerade heimisch. Naja, dann mache ich mich mal auf den Weg. Bitte schließ’ die Tür, wenn du gehst."
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:1379
+msgid "Brealla, wir brauchen deine Hilfe bei der Verteidigung des Dorfes. Wirst du uns beistehen?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1385
+msgid "Wenn du so charmant fragst, kann ich ja kaum ablehnen, nicht wahr? Natürlich helfe ich euch."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1403
+msgid "Was kann ich für dich tun, mein schweigsamer Freund?"
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/02_the_fall.cfg:1407 scenarios/02_the_fall.cfg:2105
+msgid "Wir brauchen deine Hilfe. Die Orks kommen zurück."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1413
+msgid "Oh, wenn das Dorf angegriffen wirst beginnst du zu reden! Ich werde euch natürlich helfen. Unter einer Bedingung."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1423
+msgid "Wiederhole deine Bitte und benutze dafür mehr als fünf Sätze!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1433
+msgid "Spielverderber. Ich helfe euch natürlich, aber die fünf Sätze werde ich noch einfordern!"
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:1449
+msgid "Brealla, die Orks kehren zurück und deine Hilfe wird benötigt um das Dorf zu verteidigen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1455
+msgid "Das kann ich mir vorstellen. Wirklich beeindruckend sind eure Streitmächte nicht."
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:1459
+msgid "Das mussten sie auch nie sein. Können wir uns auf dich verlassen?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1465
+msgid "Natürlich. Irgendwer muss euch ja beschützen."
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:1481
+msgid "Das Dorf braucht deine Hilfe um die Orks abzuwehren, die uns wieder bedrohen, Brealla! Sie werden bald da sein und jeder mit der Fähigkeit zu kämpfen wird auf dem Schlachtfeld benötigt."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1487
+msgid "<span size='small' font-style='italic'>gespielt beleidigt</span>Auf das werde ich also reduziert, wenn es zum Kampf kommt? Auf einen einfachen Soldaten?"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:1491
+msgid "Werte Magierin Brealla, würdet Ihr euch dazu herablassen, uns normalem Volk die Ehre zu erweisen uns mit eurer Magie auf dem Schlachtfeld zum Sieg zu führen?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1497
+msgid "<span size='small' font-style='italic'>lachend</span> Und ob ich das werde, Dehal."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_the_fall.cfg:1516
+msgid "Ich suche die Magierin Brealla."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1522
+msgid "Sie steht vor dir, $unit.name. Was kann ich denn für dich tun?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_the_fall.cfg:1526
+msgid "Wir evakuieren das Dorf, und brauchen jede helfene Hand!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1532
+msgid "Ein oder zwei davon kann ich sicher eine Weile entbehren."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:1566
+msgid "Komm Bruder, wir müss-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1572
+msgid "Wir müssen los, ich weiß. Ich habe habe euer hektisches Treiben schon beobachtet. Ich nehme an, die Orks greifen wieder an?"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:1576
+msgid "Genau."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1582
+msgid "Ich habe bereits meinen Bogen gespannt und den Köcher gefüllt. Lass uns Orks jagen, Bruder!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:1586
+msgid "Unsere Priorität ist es, das Dorf zu schützen, Lenvan. Denk daran!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1592
+msgid "Und das tun wir am Besten, indem wir jeden einzelnen Ork töten, der es wagt uns anzugreifen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1610
+msgid "Ah, Ysedda! Ich würde ja fragen, wie ich die Ehre deines Besuches verdiene, aber ich habe natürlich mitbekommen, was los ist. Die Orks greifen wieder an und alle machen sich kampfbereit, nicht wahr?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:1614
+msgid "Manchmal denke, ich du bist tatsächlich so gut, wie du glaubst."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1620
+msgid "Ich gebe mein Bestes. Naja, eigentlich strenge ich mich kaum an. Aber genug der Worte, wir müssen los!"
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/02_the_fall.cfg:1636
+msgid "Lenvan, wir müssen los, die-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1642
+msgid "-Orks kommen, ich weiß. Das gibt dir nicht das Recht, in mein Haus zu stürmen! Ich komme gleich. Geh’ und störe jemand anderen"
+msgstr ""
+
+#. [message]: speaker=Brealla
+#: scenarios/02_the_fall.cfg:1658
+msgid "Lenvan, beeile dich gefälligst, ich weiß, dass du nur darauf wartest, dass dich jemand abholt!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1664
+msgid "Ah, liebste Brealla, du kennst mich einfach zu gut. Dann auf! Diese Schlacht wird den Orks weit weniger gefallen, wenn wir beide mitkämpfen!"
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:1680
+msgid "<span size='small' font-style='italic'>schnell</span> Los Lenvan, du musst dich bereit machen, die Orks sammeln sich im Süden und greifen bald an. Es sollen fast so viele sein, wie damals bei -"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1686
+msgid "Beruhige dich, Petar mein Freund. Ich weiß das doch längst."
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:1690
+msgid "Oh. Dann bist du fertig? Wir müssen schnell los, bevor die Orks ein riesiges Gemetzel unter den Zivilisten anrichten, die sind blutrünstig und angriffslustig - Also die Orks, nicht die Bürger, aber das dürfte ja klar sei-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1696
+msgid "Ja, das ist klar. Gehen wir."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1714
+msgid "Was machst du in meinem Haus?"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:1718
+msgid "Ich? Ich begutachte nur die Ausstattung. Ein wunderbares Haus. Aber ich habe selten gesehen, dass jemand ein Gemälde von sich selbst aufhängt."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1724
+msgid "Das... war ein Geschenk. Von einer guten Freundin. Und du hast nicht wirklich gesagt, was du hier willst!"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:1728
+msgid "Eigentlich das Silber in der Vitrine da, aber heute reicht es mir, dir zu sagen, dass du bald auf dem Schlachtfeld benötigt wirst. Die Orks greifen bald wieder an. Du solltest gleich aufbrechen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1734
+msgid "Und dahin werde ich mich auch bald aufmachen. Gleich nach dir."
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:1738
+msgid "Man könnte meinen, du misstraust mir..."
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:1754
+msgid "Das Dorf wird erneut angegriffen, wir brauchen dich für die Verteidigung, Lenvan."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1760 scenarios/02_the_fall.cfg:1809
+msgid "Damit habe ich gerechnet. Ich bin schon bereit für die Schlacht, du kannst ganz beruhigt sein. Solange ich mitkämpfe, können wir gar nicht verlieren."
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:1764
+msgid "Jede Schlacht kann man verlieren, wenn man den Gegner unterschätzt."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1783
+msgid "Ah, du bist es. Du musst gar nichts sagen. Die Orks greifen erneut an und ich werde auf dem Feld gebraucht. Ich bin schon bereit für die Schlacht, du kannst ganz beruhigt sein. Solange ich mitkämpfe, können wir überhaupt nicht verlieren."
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/02_the_fall.cfg:1787
+msgid "<font-style='bold'>zweifelnder Blick</span>"
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:1803
+msgid "Das Dorf wird erneut angegriffen, Lenvan. Wir brauchen dich um es zu verteidigen!"
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:1813
+msgid "Hoffen wir, dass du Recht hast…"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:1829
+msgid "Lenvan, die Orks kehren zurück um das Dorf erneut anzugreifen. Jeder waffentaugliche Bürger wird für die Verteidigung benötigt."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1835
+msgid "’Jeder waffentaugliche Bürger’? Wollt ihr die Bauern in die Schlacht führen?"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:1839
+msgid "Wir haben keine große Wahl. Entweder jeder kämpft oder jeder stirbt. Die paar Krieger die wir haben können den Orks nicht auf Dauer standhalten."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1845
+msgid "Du hast mich noch nicht kämpfen sehen, deswegen verzeihe ich dir, dass du mich unterschätzt. Wir sehen uns auf dem Schlachtfeld."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1867
+msgid "Ah, du bist wohl gekommen, um mich zu warnen, Ri-... Wa-... Wie war dein Name doch gleich?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_the_fall.cfg:1871
+msgid "$unit.name. Wir müssen los, di-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1877
+msgid "Die Orks kommen, ich weiß. Ich bin schon bereit für die Schlacht, du kannst ganz beruhigt sein. Solange ich mitkämpfe, können wir gar nicht verlieren."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:1913
+msgid "Petar, wir brauchen dich auf dem Feld!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1919
+msgid "Bin unterwegs und auch vorbereitet. Ich habe gerade erst meinen Schild so poliert, dass die Orks denken werden, ihre Artgenossen rennen auf sie zu, wenn sie auf mich losgehen, was sie sicher irritieren wird und mir die Gelegenheit gibt, sie problemlo-"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:1923
+msgid "Ich muss weiter, ich bin sicher, die Orks werden dich fürchten!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:1939
+msgid "Wir werden bald angegriffen, Petar. Mach dich bereit und komm mit!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1945
+msgid "Bin schon unterwegs, bereit machen muss ich mich aber nicht. Ich habe mir angewöhnt, immer nur in Rüstung aus dem Haus zu gehen, wenn ich nicht gerade in einer großen Stadt mit hohen Mauern bin. In Dörfern bin ich so gut wie immer kampfbereit."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1951
+msgid "Du glaubst ja gar nicht, wie oft man als Besucher in Gaststätten angegriffen wird! Das meiste sind Räuber die denken, dass man eh nicht lange genug in der Gegend bleibt um sich zu rächen, aber das eine Mal-"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:1955
+msgid "Tut mir Leid, dass ich dich unterbrechen muss, aber die Schlacht beginnt bald und ich muss noch anderen Bescheid geben."
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/02_the_fall.cfg:1971
+msgid "Komm, Eisenmann, wir müssen das Dorf verteidigen und die Bürger schützen!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1977
+msgid "Ah, darin bin ich Meister! Habe ich dir mal erzählt, wie ich nur mit meinem Schild gegen fünf orkische Bogenschützen angetreten bin, die mich umzingelt hatten? Sie haben schnell hintereinander geschossen und ich mus-"
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/02_the_fall.cfg:1981
+msgid "Ja, das hast du mir schon erzählt. Und ich war dabei. Ich habe vier der Orks erschossen. Gehen wir, dir ein paar neue Geschichten holen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:1999
+msgid "Brealla! Schön dich zu sehen! Was führt dich denn zu mir? Komm doch rein, wir können uns etwas unterhalten, die meisten Leute haben zu viel mit dem Wiederaufbau zu tun und irgendwie braucht niemand meine Hilfe. Wahrscheinlich, weil ich eher ein Kämpfer, statt Baumeister bin, auf jeden Fall komme ich mir dadurch schon ab und zu etwas ei-"
+msgstr ""
+
+#. [message]: speaker=Brealla
+#: scenarios/02_the_fall.cfg:2003
+msgid "Shh, mein Kleiner. Wir können uns später unterhalten, jetzt gilt es, eine Schlacht zu schlagen. Die Orks sind bald da und wir müssen uns darauf vorbereiten."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2021
+msgid "Was machst du denn in meinem Haus, Bleichschopf? Du bist hier ganz sicher nicht willkommen, wenn du mein Eigentum stehl-"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:2025
+msgid "Keine Sorge, ich will nichts stehlen. Ich will dir nur Bescheid geben, dass die Stadt bald angegriffen wird. Du solltest umgehend los ziehen!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2031
+msgid "Wir kämpfen? Darauf bin ich immer vorbereitet. Um genau zu sein heute sogar besser als sonst, weil ich erst gestern meinen Streitkolben geschliffen habe. Die Leute denken, das wäre nur bei Schwertern nötig, aber ich persönlich find-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2037
+msgid "Was machst du da mit dem Silber? Das gehörte meinen Eltern, leg das wieder hin, bevor ich d-"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:2041
+msgid "Ich wollte mir das nur genauer ansehen. Wirklich ein schönes Familienwappen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2047
+msgid "Nicht wahr? Unsere Familie hat damals selbst Wappen entworfen, und das schönste Werk meines Großvaters ha-"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:2051
+msgid "Wie dem auch sei, wir sehen uns auf dem Schlachtfeld."
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:2067
+msgid "Petar, wir brauchen deine Hilfe bei der Verteidigung des Dorfes. Wirst du uns beistehen?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2073
+msgid "Natürlich helfe ich! Schließlich weiß ich, wie ein Dorf aussieht, wenn es sich nicht auf die Verteidiger verlassen kann, die zufällig gerade zu Besuch sind. Ich gehörte mal zu einem Trupp, der ein Dorf zurückerobern sollte, das vorher dafür bekannt war, dass da immer sehr viele Söldner lagerten."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2079
+msgid "In dem Dorf waren genug Krieger, um ein ganzes Land zu verteidigen und dennoch hat kein einziger von denen gekämpft. Na gut, ‘kein einziger’ ist vielleicht auch nicht richtig, wir haben schon einige Kampfspuren gefunden, aber die Mehrzahl der Söldner ist einfach abgereist, als die Orks kamen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2085
+msgid "Offenbar war denen die Gastfreundschaft nicht Bezahlung genug. Hat sich aber nicht für sie ausgezahlt weg zu rennen, später hatten sie-"
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:2089
+msgid "Erzähl’ mir das nach der Schlacht. Das Dorf braucht momentan unsere Waffen, nicht unsere Worte."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2111
+msgid "Ich dachte mir doch gleich, dass die nicht einfach so aufgeben. Ich war mal in einer Stadt, die ganze vier Monate belagert wurde. Das waren zwar keine Orks, aber furchteinflößend waren sie allemal. Alle Dörfer in der Umgebung haben sie geplündert und die meisten Bewohner zerstückelt."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2117
+msgid "Die haben tatsächlich ihr ganzes Gebiet mit Pfählen begrenzt, auf denen Körperteile ihrer Opfer hingen. Zum Glück hatten sie kein so großes Gebiet. Im Prinzip wollten sie nicht einmal ein großes Reich haben."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2123
+msgid "Es hat sich herausgestellt, dass sie zwar brutal aber keine Eroberer waren und nur ihr Reich verteidigen wollten. Tatsächlich hielten sie uns für die Angreifer. Das war nämlich ein wanderndes Volk. Alle paar Jahre sind sie als ganzes Volk umhergezogen. Kannst du dir das mit einem Dorf wie euren vorstellen?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2129
+msgid "Wie dem auch sei, die Siedler hatten an einem Wald ihre Stadt gebaut und nach ein paar Jahren kamen auf einmal die Eingeborenen zurück und haben aus dem Nichts und ohne jegliche-"
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/02_the_fall.cfg:2133
+msgid "Du bist schlimmer als Dehal. Ich gehe jetzt."
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:2149
+msgid "Petar, die Orks kehren zurück und deine Hilfe wird benötigt um das Dorf zu verteidigen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2155
+msgid "Dann helfe ich natürlich. Ich habe auch reichlich Erfahrung mit Dorfverteidigungen. Glaub nicht, dass wir im Kampf gegen die Orks immer die Angreifer oder die Rächer und Retter waren."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2161
+msgid "Wir haben öfter Meldungen von kleinen Dörfern wie Korstad, aber auch von Städten bekommen, die bald angegriffen werden sollten. Wir konnten die meisten problemlos retten. Natürlich nicht verlustfrei, aber das kann man auch kaum erwarten. Es gibt schließlich bei jeder Schlacht Verletzte und Tote."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2167
+msgid "Die meisten sind darauf auch vorbereitet, aber es gab da diesen eine-"
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:2171
+msgid "Das reicht jetzt! Die Zukunft unseres Dorfes steht auf dem Spiel! Ich weiß zu schätzen, dass du nicht weg rennen wirst, aber deine Geschichten müssen warten, wenn sie uns nicht helfen zu gewinnen!"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:2187
+msgid "Das Dorf braucht deine Hilfe um die Orks abzuwehren, die uns wieder bedrohen, Petar! Sie werden bald da sein und jeder mit der Fähigkeit zu kämpfen wird auf dem Schlachtfeld benötigt."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2193
+msgid "Oh, diese Fähigkeit habe ich! Ich habe es mal mit neun anderen Soldaten gleichzeitig aufgenommen, ohne meine Rüstung oder irgendwelche Waffen zu haben. Gut, es war eine Schlägerei in einer Bar und die anderen waren schon ziemlich angetrunken, aber das mindert nicht ihre Anzahl!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2199
+msgid "Außerdem sollte man bedenken, dass das auch ausgebildete Kämpfer waren, daran kann auch der Rausch nichts ändern. Die waren alle muskelbepackte und große Kerle. Einer davon überragte mich um mindestens vier Köpfe!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2205
+msgid "Wobei der auch einer der ersten war, den ich besiegt habe. Er war zwar wirklich riesig, aber auch ziemlich langsam. Ich bin vielleicht nicht der schnellste, muss ich ja auch nicht, weil ich normalerweise meine Rüstung habe, aber dem konnte ich gut zehn Schläge verpassen, ohne dass er auch nur einen gelandet hat."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2211
+msgid "Aber die Treffer brauchte es auch, um ihn umzuwerfen, ich weiß ja nicht, ob du schon mal gegen so einen Riesen gekämpft hast, ab-"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:2215
+msgid "Gegen so einen Riesen wie du ihn beschreibst zwar nicht, aber gegen einige große Kerle habe ich schon gekämpft. Und meine waren nicht betrunken. Einer war sogar ein Meister in irgendeiner merkwürdigen, fremden Kampfkunst und war nicht nur riesig, sondern auch noch so flink, dass man seine Schläge kaum sehen konnte."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2221
+msgid "Gegen schnelle Gegner komme ich auch problemlos an. Meine Rüstung interessiert es nicht, ob sie von einem oder drei Schlägen getroffen wird. Lenvan und ich haben das einmal in einem Übungskampf getestet."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2227
+msgid "Natürlich hat er stumpfe Pfeile genommen, weil Denvan Angst hatte, sonst würde einer durchkommen, aber das wäre nicht nötig gewesen. Zwanzig Pfeile hat er geschossen, alle haben genau getroffen und am Ende gabe es nur ein paar Kratzer. Und viellleicht ein, zwei Dellen. Nichts, was man nicht ausbeulen könnt-"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:2231
+msgid "Klingt, als hätte er nur auf die starke Panzerung geschossen. Wenn er nicht auf die Gelenke zielt, ist es kein Wunder, dass du unbeschadet davongekommen bist. Wer auf die richtigen Stellen zielt, der kann dich auch zu Fall bringen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2237
+msgid "<span size='small' font-style='italic'>beleidigt</span>Natürlich. Ich habe nie behauptet, ich wäre unbesiegbar. Bei dir klingt es, als wäre ich nichts als ein Aufschneider. Dabei erzähle ich nur wahre Geschichten. Vielleicht schmücke ich manchmal etwas aus, aber-"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:2241
+msgid "Lassen wir das einfach so stehen und widmen uns der Schlacht. Wir haben schon viel zu viel Zeit verschwendet."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_the_fall.cfg:2260
+msgid "Das Dorf wird evakuiert, beeil dich, und komm."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2266
+msgid "Evakuierung? Ich war mal bei einem Orkangriff auf eine kleine Stadt dabei, bei der alle evakuiert wurde. Nachdem die Schlacht gewonnen war, sind alle wieder zurückgezogen, und wollten ihre Häuser beanspruchen, abe-"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_the_fall.cfg:2270
+msgid "Ich möchte eigentlich gerade nichts darüber hören..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2316 scenarios/02_the_fall.cfg:2460
+msgid "<span size='small' font-style='italic'>verschlafen</span> Was machst du denn so früh am Morgen hier? Willst du uns schon verlassen?"
+msgstr ""
+
+#. [message]: speaker=Brealla
+#: scenarios/02_the_fall.cfg:2320
+msgid "Das wäre doch zu gemein. Ich denke ich warte bis wir die Orks abgewehrt haben."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2326
+msgid "Du meinst… <span size='small' font-style='italic'>erschrocken</span> Die Orks kommen zurück? Wir haben sie doch besiegt!"
+msgstr ""
+
+#. [message]: speaker=Brealla
+#: scenarios/02_the_fall.cfg:2330
+msgid "Die kleinere Gruppe. Aber die übrigen greifen bald an."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2336
+msgid "<span size='small' font-style='italic'>gefasster</span> Ich mache mich bereit."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2354
+msgid "Was machst du denn hier?"
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/02_the_fall.cfg:2358
+msgid "Ich gebe dir die Chance dich auf den Orkangriff vorzubereiten."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2364
+msgid "Was meinst du? Wir haben die Orks zurückgeschlagen."
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/02_the_fall.cfg:2368
+msgid "Und du glaubst, deswegen fürchtet die ganze Orkrasse jetzt unser Dorf?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2374
+msgid "Nein, natürlich nicht…"
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/02_the_fall.cfg:2378
+msgid "Dann mach dich bereit für den Kampf, wenn du dich nicht im Haus verstecken willst."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2396
+msgid "<span size='small' font-style='italic'>verschlafen</span> Was machst du denn schon so früh am Morgen hier? Gibt es Probleme?"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:2400
+msgid "Das kann man wohl sagen. Die Orks versammeln sich erneut und werden bald angreifen. Mach dich bereit für den Kampf, Johan."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2406 scenarios/02_the_fall.cfg:2438
+msgid "Ich hatte gehofft, wir hätten es überstanden."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:2410
+msgid "Ich auch."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2428
+msgid "<span size='small' font-style='italic'>verschlafen</span> Was machst du denn schon so früh am Morgen hier? Hat jemand ein Problem?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:2432
+msgid "Jeder einzelne im Dorf. Die Orks versammeln sich um uns noch einmal anzugreifen. Du wirst wieder kämpfen müssen."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:2442
+msgid "Wir alle, Johan. Wir alle."
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:2464
+msgid "Verlassen? Nein, noch nicht. Ich habe bisher nicht einmal darüber nachgedacht, wann ich das Dorf wieder verlasse. Schließlich bin ich jetzt eine ganze Weile Denvan gefolgt und hatte gar keine Zeit für eigene Pläne."
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:2468
+msgid "Generell ist bei den ganzen Kämpfen nie Zeit für Pläne. Selbst hier kommt man kaum zur Ruhe. Wir kommen am Ende einer Schlacht an und ein paar Tage später beginnt direkt die nächste, das ist wie damals in -"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2474
+msgid "Stopp! Was meinst du mit ‘ein paar Tage später beginnt die nächste Schlacht’?"
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:2484
+msgid "Stimmt, das habe ich ganz vergessen zu sagen! Die Orks sind kurz davor, wieder anzugreifen und wir machen uns alle bereit. Deswegen bin ich hier, um dir Bescheid zu geben. Ich habe mich als wir ankamen mit einem eurer Reiter unterhalten, der dafü-"
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:2490
+msgid "Stimmt, das habe ich ganz vergessen zu sagen! Die Orks sind kurz davor, wieder anzugreifen und wir machen uns alle bereit. Deswegen bin ich hier, um dir Bescheid zu geben. Ich war schon einmal in einem Dorf, bevor es angegriffen werden sollte. Oder zumind-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2499
+msgid "Dafür ist jetzt keine Zeit! Ich bereite mich auf den Kampf vor, erzähl’ mir die Geschichte später!"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:2515
+msgid "Aufwachen, Johan. Dein Dorf braucht dich!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2521
+msgid "<span size='small' font-style='italic'>aus dem Schlaf hochschreckend</span> Wer bist du? Was machst du in meinem Haus?"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:2525
+msgid "Nun, momentan rede ich mit dir. Ich wurde von Ysedda hergeschickt."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2531
+msgid "Und warum klopfst du nicht?"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:2535
+msgid "Hättest du es denn gehört? Du hast geschlafen."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2541
+msgid "Das gibt dir doch nicht das Recht einzubrechen!"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:2545
+msgid "Da bin ich anderer Meinung. Aber lassen wir das. Eine Horde Orks greift bald das Dorf an, du solltest dich bereit machen, mit uns anderen tapferen Recken das Dorf zu verteidigen."
+msgstr ""
+
+#. [message]: speaker=Adhor
+#: scenarios/02_the_fall.cfg:2561
+msgid "Das Dorf wird erneut angegriffen, wir brauchen dich für die Verteidigung, Johan."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2567 scenarios/02_the_fall.cfg:2595 scenarios/02_the_fall.cfg:2617 scenarios/02_the_fall.cfg:2678
+msgid "Ich hatte gehofft, es bleibt uns erspart. Aber ich bin bereit."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2585
+msgid "<span size='small' font-style='italic'>verschlafen</span> Was machst du denn schon so früh am Morgen hier? Gibt es etwas zu berichten?"
+msgstr ""
+
+#. [message]: speaker=Bisam
+#: scenarios/02_the_fall.cfg:2589
+msgid "Wir müssen uns verteidigen. Die Orks kommen zurück."
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:2611
+msgid "Korstad wird erneut angegriffen, Johan. Wir brauchen dich um das Dorf zu verteidigen"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:2633
+msgid "Die Orks kehren zurück um das Dorf erneut anzugreifen. Jeder waffentaugliche Bürger wird für die Verteidigung benötigt."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2639
+msgid "Es ist schrecklich, dass wir einfache Bauern in den Kampf schicken müssen."
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:2643
+msgid "Schrecklich ja, aber es ist nötig. Entweder sie kämpfen oder sie sterben."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2649
+msgid "Bei dir klingt es, als würde sie der Kampf vor dem Tod bewahren und sie nicht ihr Leben riskieren lassen…"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:2653
+msgid "Er gibt ihnen wenigstens eine Chance."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_the_fall.cfg:2672
+msgid "Korstad wird erneut angegriffen, Johan. Wir brauchen dich um das Dorf zu verteidigen!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_the_fall.cfg:2724
+msgid "Die Orks kommen"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:2730
+msgid "<span size='small' font-style='italic'>ernst</span> Bin auf dem Weg, $unit.name"
+msgstr ""
+
+#. [event]: id=Kreog ai_special guardian}, id=Kramm ai_special guardian}
+#: scenarios/02_the_fall.cfg:2758
+msgid "Kreog"
+msgstr ""
+
+#. [event]: id=Kreog ai_special guardian}, id=Kramm ai_special guardian}
+#: scenarios/02_the_fall.cfg:2759
+msgid "Kramm"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:2861
+msgid "Verdammt, das sind viele."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:2865
+msgid "Zu viele?"
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:2869
+msgid "Nicht, wenn wir alle zusammenhalten."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:2873
+msgid "Sicher? Wir haben nur wenige Kämpfer und sie haben eine Armee."
+msgstr ""
+
+#. [message]: speaker=Dehal
+#: scenarios/02_the_fall.cfg:2877
+msgid "Was schlägst du vor? Sollen wir uns verstecken und hoffen, dass sie uns nicht erwischen?"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:2881
+msgid "Wir müssen das Dorf verlassen. Lassen wir ihnen die Häuser, wir behalten unser Leben."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:2885
+msgid "Sie hat Recht. <span size='small' font-style='italic'>laut</span> Wir können hier nicht gewinnen. Macht euch bereit für den Rückzug!"
+msgstr ""
+
+#. [message]: speaker=Brealla
+#: scenarios/02_the_fall.cfg:2890
+msgid "Und das ohne jede Vorwarnung! Ich bin nicht reisefertig!"
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/02_the_fall.cfg:2894
+msgid "Rückzug? Ich hatte mit einem Kampf gerechnet, nicht mit einer Flucht!"
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/02_the_fall.cfg:2898
+msgid "Die Orks sind zurück? Ich hatte so gehofft, wir blieben jetzt verschont."
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:2902
+msgid "Zum Glück hatte ich schon meine Rüstung an, ich bin schließlich immer bereit, aber das wir fliehen hätte ich nicht gedacht. Ich habe von einem Dorf gehört, in dem ein paar Dutzend Bauern über hundert Orks vertrieben haben, einfach indem sie sich in einem Ha-"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:2906
+msgid "Wir hätten die Zeit nutzen sollen, um alle zu warnen!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_the_fall.cfg:2914
+msgid "Move Denvan, Ysedda and Lenvan into the marked area"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/02_the_fall.cfg:2932
+msgid "Death of Lenvan"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_the_fall.cfg:2963
+msgid "Stirb, Menschlein! Stirb!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/02_the_fall.cfg:2967
+msgid "Nach dir, Missgeburt!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:2981
+msgid "Denvan! Wir können sie nicht aufhalten! Wir müssen jetzt fliehen!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:2985
+msgid "Du hast Recht. <span size='small' font-style='italic'>laut</span> Rückzug! Gebt den Kampf auf, und konzentriert euch auf die Evakuierung!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/02_the_fall.cfg:2989
+msgid "Versucht nur zu fliehen, wir erw-"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/02_the_fall.cfg:3010
+msgid "Achte beim nächsten Mal lieber auf deinen Feind!"
+msgstr ""
+
+#. [message]: speaker=Gaol
+#: scenarios/02_the_fall.cfg:3026
+msgid "Ja! Schlachtet die mikrigen Menschen!"
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/02_the_fall.cfg:3030
+msgid "<span size='small' font-style='italic'>leise</span>Gaol, du schwachsinniger Sohn einer Blutmade!"
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/02_the_fall.cfg:3034
+msgid "Tötet so wenige wie möglich! Wir brauchen sie noch! Morgal verlangt Sklaven, keine Leichen!!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:3065
+msgid "Wir sind entkommen!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:3069
+msgid "Doch sind wir nur noch wenige."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:3073
+msgid "Das Schlimmste haben wir überstanden. Wenn wir wachsam bleiben, können wir diesen Teil unserer Geschichte bald vergessen."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:3077
+msgid "Ich bezweifle, dass irgendjemand hier, den heutigen Tag je vergessen wird..."
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/02_the_fall.cfg:3088
+msgid "Ich mit Sicherheit nicht. Vielleicht sollte ich bei euch bleiben. Was meint ihr, Mylady?"
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/02_the_fall.cfg:3100
+msgid "Wir fliehen vieleicht, aber ohne die Übermacht hätten die Orks keine Chance gehabt!"
+msgstr ""
+
+#. [message]: speaker=Johan
+#: scenarios/02_the_fall.cfg:3112
+msgid "Korstad ist gefallen. Wir haben versagt."
+msgstr ""
+
+#. [message]: speaker=Brealla
+#: scenarios/02_the_fall.cfg:3124
+msgid "Schade um das Dorf. Aber zu lange zu verweilen tut eh niemandem gut."
+msgstr ""
+
+#. [message]: speaker=Clewin
+#: scenarios/02_the_fall.cfg:3136
+msgid "Hätte ich doch nur mehr in Erfahrung bringen können..."
+msgstr ""
+
+#. [message]: speaker=Petar
+#: scenarios/02_the_fall.cfg:3148
+msgid "Diese Orks sind wirklich hartnäckig! Einem ist das Schwert an meinem Schild zerbrochen, und er hat einfach weiter angegriffen! Der hat sich die blosen Fäuste an dem Stahl blutig geschlagen, und ist nur noch wilder gewor-"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:3156
+msgid "Und so verabschiedete sich jeder auf seine Art von Korstad und den Gefallenen, die in der Stadt verbleiben mussten, und nicht geborgen werden konnten. Leider war dies nicht die letzte Schlacht, die die Korstadter ausfechten mussten. Um genau zu sein, näherten sie sich der nächsten Bedrohung sehr schnell."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:3219
+msgid "Natürlich starb sie nicht. Ich wollte nur sehen, ob ihr noch aufpasst."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:3237
+msgid "Ich nehme an, keiner von euch würde mir eine Geschichte glauben, in der der Held in seiner ersten Schlacht stirbt? Gut, beginnen wir von vorn."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:3255
+msgid "Nein, das stimmt so nicht. Johan gab sein Leben nicht in dieser Schlacht"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:3273
+msgid "Nein, das stimmt so nicht. Lenvan gab sein Leben nicht in dieser Schlacht"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:3287
+msgid "Denvan, die Lücke schließt sich!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:3291
+msgid "Wir kämpfen weiter!"
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/02_the_fall.cfg:3295
+msgid "Wir können nicht mehr entkommen!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/02_the_fall.cfg:3299
+msgid "Und deswegen werden wir auch kämpfen, bis jeder von uns tot ist!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/02_the_fall.cfg:3305
+msgid "So wäre es wohl gelaufen, wenn die tapferen Korstadter zu langsam gewesen wären. Doch lasst mich die Geschichte erzählen, wie sie sich zutrug."
+msgstr ""
+
+#. [scenario]: id=03_fog_of_war
+#: scenarios/03_fog_of_war.cfg:5
+msgid "Fog of War"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/03_fog_of_war.cfg:80
+msgid "Ich muss den anderen helfen, ich darf mich noch nicht verstecken!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_fog_of_war.cfg:258
+msgid "Wolf"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_fog_of_war.cfg:260
+msgid "<font-style='bold'>Jault</span>"
+msgstr ""
+
+#. [part]
+#: scenarios/03_fog_of_war.cfg:283
+msgid "Nachdem die Korstadter ihr Dorf zurückgelassen hatten, brachen sie in Richtung Norden auf, während die Orks ihre frühere Heimat plünderten und niederbrannten. Sie reisten mehrere Tage, bevor sie bemerkten, dass ihre Widersacher sich nicht mit der Vernichtung des Dorfes zufrieden geben wollten und die Verfolgung aufgenommen hatten."
+msgstr ""
+
+#. [part]
+#: scenarios/03_fog_of_war.cfg:288
+msgid "Ihr spärliches Proviant und all ihr Hab und Gut zurücklassend, flohen die Vertriebenen so schnell sie ihre Beine trugen und ohne Pause. Doch je mehr Zeit verstrich, desto näher kamen ihnen ihre Verfolger, bis sie schließlich nur noch ein Fußmarsch von wenigen Stunden trennte, als sie am Rande eines Waldes ankamen, der nur spärlich durch das Nebelmeer zu erkennen war, aus dem er herausragte."
+msgstr ""
+
+#. [side]
+#: scenarios/03_fog_of_war.cfg:322
+msgid "Chaser"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_fog_of_war.cfg:579
+msgid "“Den nebelverdeckten Wald vor Augen erkannte Denvan die Möglichkeit, die Verfolger abzuschütteln, die sein Volk hetzten."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/03_fog_of_war.cfg:584
+msgid "Das ist unsere Chance. Da drin können wir uns verbergen und abwarten, bis sie an uns vorbeigezogen sind."
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/03_fog_of_war.cfg:589
+msgid "Das gefällt mir nicht. Wir sollten die Tarnung nutzen um ihnen eine Falle zu stellen, nicht um uns zu verstecken wie Kinder und Greise."
+msgstr ""
+
+#. [message]: speaker=Ysedda
+#: scenarios/03_fog_of_war.cfg:594
+msgid "Viele von uns <span font-style='italic'>sind</span> Kinder und Greise! Wir können nicht kämpfen, nur um deinen Stolz zu befriedigen!"
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/03_fog_of_war.cfg:599
+msgid "Es geht nicht um Stolz! Wenn wir uns immer jagen lassen und uns nicht wehren, werden sie uns früher oder später vernichten!"
+msgstr ""
+
+#. [message]: speaker=Ven
+#: scenarios/03_fog_of_war.cfg:604
+msgid "Ich denke, unsere glorreiche Anführerin hat Recht. Nicht jeder ist für den Kampf geeignet."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/03_fog_of_war.cfg:609
+msgid "Wenn wir eine Armee hätten, könnten wir uns ihnen hier stellen und vielleicht sogar gewinnen. Aber die meisten von uns sind keine Kämpfer. Und die die es sind, sind erschöpft und kaum in der Lage es mit einem einzelnen Ork aufzunehmen, geschweige denn mit einer ganzen Horde."
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/03_fog_of_war.cfg:614
+msgid "Du unterschätzt unser Volk, Bruder."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/03_fog_of_war.cfg:619
+msgid "Ich beschütze unser Volk!"
+msgstr ""
+
+#. [message]: speaker=Lenvan
+#: scenarios/03_fog_of_war.cfg:624
+msgid "Warum verstecken wir uns dann alle? Lass sich jene verstecken, die zu schwach zum Kämpfen sind und lass uns mit den anderen einen Hinterhalt legen! Wenn wir tatsächlich verlieren sollten, dann können die Nichtkämpfer alleine ein neues Dorf gründen."
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/03_fog_of_war.cfg:629
+msgid "<span size='small' font-style='italic'>leise</span>Davon abgesehen, dass sie ein leichtes Ziel für jeden Ork, jeden Banditen, selbst jedes Rudel von Raubtieren wären, was glaubst du, wie die Orks reagieren werden, wenn wir hier gegen sie kämpfen? Glaubst du, sie werden nach ihrem Sieg friedlich abziehen? Nein! Sie werden sehen, dass wir hier sind. Sie werden folgern, dass unsere Schwachen nicht fern sind und dann werden sie den Wald durchsuchen, bis sie jeden von uns getötet haben!"
+msgstr ""
+
+#. [message]: speaker=Denvan
+#: scenarios/03_fog_of_war.cfg:634
+msgid "<span size='small' font-style='italic'>laut</span> Wir teilen uns auf und verstecken uns im Wald! Verbergt euch vor den Orks mit allen Mitteln! Versteckt euch in Büschen, klettert auf Bäume, kriecht in Höhlen oder grabt euch ein, wenn es sein muss! Wenn nur einer von uns gefunden wird, kann es das Ende für uns alle bedeuten! Doch halten wir durch, sind wir die Orks endlich los und können in Frieden weiterleben. Haltet euch an diesem Gedanken fest und haltet durch! Wenn sie ihre Suche abgebrochen haben, werden wir uns hier erneut versammeln um in die Zukunft aufzubrechen!"
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/03_fog_of_war.cfg:680
+msgid "Na los, sie müssen hier irgendwo sein! Sucht überall! Dreht jeden Stein um!  Hier werden wir sie endlich wiederfinden! Die Menschen sind feige und gut im Verstecken, aber wir sind Orks, wir sind großartig im Aufspüren von unserer Beute!"
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/03_fog_of_war.cfg:684
+msgid "<span size='small' font-style='italic'>sarkastisch</span>Großartige Ansprache. Hast du die eingeübt?"
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/03_fog_of_war.cfg:697
+msgid "Durchsucht den Wald! Wer auch nur einen Menschen findet signalisiert das, bevor er ihn angreift! Wenn sie hier sind, dann lassen wir sie nicht mehr entkommen!"
+msgstr ""
+
+#. [message]: race=orc
+#: scenarios/03_fog_of_war.cfg:778 scenarios/03_fog_of_war.cfg:809
+msgid "<span size='small' font-style='italic'>laut</span> Sie sind hier! Ich habe sie gefunden!"
+msgstr ""
+
+#. [message]: race=Varag
+#: scenarios/03_fog_of_war.cfg:813
+msgid "Sehr gut. Umstellt den Wald und treibt sie raus! Brennt ihn nieder, wenn es sein muss! Wir lassen sie nicht noch einmal entkommen!"
+msgstr ""
+
+#. [message]: race=narrator
+#: scenarios/03_fog_of_war.cfg:819
+msgid "Und das hätte das Ende für unser Volk bedeutet. Verstreut und umstellt hätten niemand entkommen können, wenn die Orks uns entdeckt hätten."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_fog_of_war.cfg:845
+msgid "Die Orks suchten ausdauernd, doch die Korstadter hatten sich zu gut verborgen und so blieb den Bestien nichts anderes übrig, als weiter zu ziehen."
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/03_fog_of_war.cfg:850
+msgid "Es reicht! Sie sind nicht hier! Ich will nicht weiter suchen!"
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/03_fog_of_war.cfg:854
+msgid "Du hast Recht, sie sind uns wohl entkommen. Hoffen wir, das Morgal uns gnädig gestimmt ist. Das Dorf haben wir schließlich problemlos überrannt."
+msgstr ""
+
+#. [message]: speaker=Karga
+#: scenarios/03_fog_of_war.cfg:858
+msgid "“Wir könnten es ihm verschweigen. Viele Menschen müssen wandernd leben."
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/03_fog_of_war.cfg:862
+msgid "Und wenn sie erwischt werden, wird Morgal sie nicht fragen, welche Orkhorde sie vertrieben hat. Du hast deine schlauen Momente, Karga."
+msgstr ""
+
+#. [message]: speaker=Varag
+#: scenarios/03_fog_of_war.cfg:866
+msgid "<span size='small' font-style='italic'>laut</span> Alle zurück, wir brechen die Suche ab und ziehen weiter!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/03_fog_of_war.cfg:872
+msgid "Und so entkamen die Korstadter den Orks entgültig. Zumindest dachten sie das."
+msgstr ""
+
+#. [scenario]: id=04_kor_mahzgur
+#: scenarios/04_kor_mahzgur.cfg:5
+msgid "Kor Mahzgur"
+msgstr ""
+
+#. [part]
+#: scenarios/04_kor_mahzgur.cfg:19 scenarios/04c_peregrination.cfg:19 scenarios/05_rebellion.cfg:19 scenarios/06_liberation.cfg:19 scenarios/07_leader.cfg:19 scenarios/08_morgal.cfg:19 scenarios/08c_forest_of_thelien.cfg:19
+msgid "story"
+msgstr ""
+
+#. [side]
+#: scenarios/04_kor_mahzgur.cfg:34 scenarios/04c_peregrination.cfg:34 scenarios/05_rebellion.cfg:34 scenarios/06_liberation.cfg:34 scenarios/07_leader.cfg:34 scenarios/08_morgal.cfg:34 scenarios/08c_forest_of_thelien.cfg:34
+msgid "name"
+msgstr ""
+
+#. [scenario]: id=04c_peregrination
+#: scenarios/04c_peregrination.cfg:5
+msgid "Peregrination"
+msgstr ""
+
+#. [scenario]: id=05_rebellion
+#: scenarios/05_rebellion.cfg:5
+msgid "Rebellion"
+msgstr ""
+
+#. [scenario]: id=06_liberation
+#: scenarios/06_liberation.cfg:5
+msgid "Liberation"
+msgstr ""
+
+#. [scenario]: id=07_leader
+#: scenarios/07_leader.cfg:5
+msgid "Leader"
+msgstr ""
+
+#. [scenario]: id=08c_forest_of_thelien
+#: scenarios/08c_forest_of_thelien.cfg:5
+msgid "Epiloque"
+msgstr ""
+
