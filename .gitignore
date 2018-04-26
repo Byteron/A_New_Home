@@ -1,6 +1,6 @@
 .project
 .wesnoth
 _server.pbl
-_wmlgettext.pl
+_wmlxgettext.pl
 _wesnoth-anh.pot
 changelog.txt
